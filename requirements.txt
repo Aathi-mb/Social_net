@@ -1,4 +1,3 @@
-pandas==2.1.0
-scikit-learn==1.3.0
-streamlit==1.26.0
-numpy==1.26.5
+streamlit           # For frontend web app
+pandas              # For data loading & manipulation
+scikit-learn
